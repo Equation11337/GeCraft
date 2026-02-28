@@ -1,0 +1,3 @@
+<recipetype:immersiveengineering:metal_press>.addRecipe("test_line1", <item:thermal:enderium_ingot>, <item:immersiveengineering:mold_wire>, 2000, <item:kubejs:ender_daoxian> * 2);
+<recipetype:immersiveengineering:metal_press>.addRecipe("test_plant1", <item:ftbic:graphene>, <item:immersiveengineering:mold_plate>, 2500, <item:powah:dielectric_paste> * 16);
+<recipetype:immersiveengineering:metal_press>.addRecipe("test_stick1", <item:powah:dielectric_paste>, <item:immersiveengineering:mold_rod>, 1000, <item:powah:dielectric_rod>);
