@@ -1,0 +1,40 @@
+{
+    "controllerId": "hongmengzhiyan",
+    "name": "Hong_Meng_Zhi_Yan",
+    "textureOverride": "minecraft:block/blue_concrete",
+    "ports": [
+      {
+        "type": "masterfulmachinery:items",
+        "name": "Item",
+        "id": "item",
+        "data": {
+          "rows": 4,
+          "columns": 4
+        }
+      },
+      {
+        "type": "masterfulmachinery:fluids",
+        "name": "Fluid",
+        "id": "fluid",
+        "data": {
+          "capacity": 1280000
+        }
+      },
+      {
+        "type": "masterfulmachinery:energy",
+        "name": "Energy",
+        "id": "energy",
+        "data": {
+          "capacity": 2147483647
+        }
+      }, 
+      {
+        "type": "masterfulmachinery:mekanism_gas",
+        "name": "Gassy",
+        "id": "gassy",
+        "data": {
+          "capacity": 1280000
+        }
+      }
+    ]
+  }

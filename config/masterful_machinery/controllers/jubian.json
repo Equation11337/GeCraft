@@ -1,0 +1,23 @@
+{
+    "controllerId": "jubian",
+    "name": "Ju_Bian",
+    "textureOverride": "minecraft:block/yellow_concrete",
+    "ports": [
+      {
+        "type": "masterfulmachinery:fluids",
+        "name": "Fluid",
+        "id": "fluid",
+        "data": {
+          "capacity": 1280000
+        }
+      },
+      {
+        "type": "masterfulmachinery:energy",
+        "name": "Energy",
+        "id": "energy",
+        "data": {
+          "capacity": 2147483647
+        }
+      }
+    ]
+  }

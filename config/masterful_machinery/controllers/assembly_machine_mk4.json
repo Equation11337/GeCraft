@@ -1,0 +1,48 @@
+{
+    "controllerId": "assembly_machine_mk4",
+    "name": "Assembly_Machine_Mk4",
+    "textureOverride": "minecraft:block/white_concrete",
+    "ports": [
+      {
+        "type": "masterfulmachinery:items",
+        "name": "Item",
+        "id": "item",
+        "data": {
+          "rows": 3,
+          "columns": 3
+        }
+      },
+      {
+        "type": "masterfulmachinery:fluids",
+        "name": "Fluid",
+        "id": "fluid",
+        "data": {
+          "capacity": 32000
+        }
+      },
+      {
+        "type": "masterfulmachinery:energy",
+        "name": "Energy",
+        "id": "energy",
+        "data": {
+          "capacity": 2147483647
+        }
+      }, 
+      {
+        "type": "masterfulmachinery:mekanism_gas",
+        "name": "Gassy",
+        "id": "gassy",
+        "data": {
+          "capacity": 32000
+        }
+      },
+      {
+        "type": "masterfulmachinery:mekanism_slurry",
+        "name": "MekSlurry",
+        "id": "mekslurry",
+        "data": {
+          "capacity": 32000
+        }
+      }
+    ]
+  }

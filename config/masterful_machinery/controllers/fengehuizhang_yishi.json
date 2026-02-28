@@ -1,0 +1,16 @@
+{
+    "controllerId": "fengehuizhang_yishi",
+    "name": "FenGeHuiZhang_YiShi",
+    "textureOverride": "minecraft:block/red_concrete",
+    "ports": [
+      {
+        "type": "masterfulmachinery:items",
+        "name": "Item",
+        "id": "item",
+        "data": {
+          "rows": 1,
+          "columns": 2
+        }
+      }
+    ]
+  }

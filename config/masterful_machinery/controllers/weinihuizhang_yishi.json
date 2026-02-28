@@ -1,0 +1,16 @@
+{
+    "controllerId": "weinihuizhang_yishi",
+    "name": "WeiNiHuiZhang_YiShi",
+    "textureOverride": "minecraft:block/red_concrete",
+    "ports": [
+      {
+        "type": "masterfulmachinery:items",
+        "name": "Item",
+        "id": "item",
+        "data": {
+          "rows": 3,
+          "columns": 4
+        }
+      }
+    ]
+  }
