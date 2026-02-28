@@ -1,0 +1,52 @@
+{
+    "name": {
+        "text": "恒星级聚爆压缩机",
+        "color": "yellow"
+    },
+    "appearance": {},
+    "tooltips": [],
+    "components": [
+        {
+            "id": "slot1",
+            "type": "custommachinery:item",
+            "mode": "input"
+        },
+        {
+            "id": "slot2",
+            "type": "custommachinery:item",
+            "mode": "input"
+        },
+        {
+            "id": "slot3",
+            "type": "custommachinery:item",
+            "mode": "output"
+        }
+    ],
+    "gui": [
+        {
+            "type": "custommachinery:player_inventory",
+            "x": 50,
+            "y": 80
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 70,
+            "y": 20,
+            "id": "slot1"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 90,
+            "y": 20,
+            "id": "slot2"
+        },
+        {
+            "type": "custommachinery:slot",
+            "x": 170,
+            "y": 20,
+            "id": "slot3"
+        }
+    ],
+    "jei": [],
+    "catalysts": []
+}
