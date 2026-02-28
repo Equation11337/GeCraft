@@ -1,0 +1,10 @@
+{
+    "name": "Circuit",
+    "colors": [
+      "ff00ff",
+      "ff00ff"
+    ],
+    "ingredient": {
+      "item": "kubejs:zhongji_dianlu"
+    }
+  }
